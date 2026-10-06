@@ -1,2 +1,2 @@
 welcome to devops
-git push origin master
+git push origin main
